@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/oslabsean/Documents/workflowScheduling/SEWSA-new'
+make clean
+make all
+make: Leaving directory '/home/oslabsean/Documents/workflowScheduling/SEWSA-new'
+ 
